@@ -1,6 +1,6 @@
 # 👨‍💻 Rohit | Data Scientist & AI Engineer
 
-![Profile Banner](https://via.placeholder.com/1000x250.png?text=Data+Science+Portfolio+Banner)  
+![Profile Banner](https://raw.githubusercontent.com/rohitpatil222/ReadMe/main/66e9f6d3-8357-4b65-bb20-5eca01568d49.png)
 
 ---
 
