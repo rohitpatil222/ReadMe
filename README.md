@@ -1,7 +1,6 @@
 # 👨‍💻 Rohit | Data Scientist & AI Engineer
 
 ![Profile Banner](https://via.placeholder.com/1000x250.png?text=Data+Science+Portfolio+Banner)  
-*(Placeholder — Replace with your professional photo or banner)*
 
 ---
 
@@ -17,9 +16,7 @@ I specialize in **AI, NLP, Computer Vision, and MLOps**, and I enjoy transformin
 
 **Programming & Scripting:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
-![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)  
 
 **Libraries & Tools:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
@@ -34,17 +31,11 @@ I specialize in **AI, NLP, Computer Vision, and MLOps**, and I enjoy transformin
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
 
 **Big Data & Cloud:**  
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
 
 **MLOps & Deployment:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)  
 
 **Databases & BI:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
@@ -78,9 +69,5 @@ Recommends recipes based on user preferences and dietary needs.
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)  
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@yourusername)  
-[![Website](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://yourwebsite.com)  
-📧 **Email:** your.email@example.com  
 
 ---
