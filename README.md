@@ -68,7 +68,6 @@ Recommends recipes based on user preferences and dietary needs.
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]
-(www.linkedin.com/in/rohith-patil-b35978306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)] (www.linkedin.com/in/rohith-patil-b35978306)
 
 ---
